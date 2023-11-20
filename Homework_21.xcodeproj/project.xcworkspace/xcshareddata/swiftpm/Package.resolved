@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cat-fact",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/salomege/Cat-fact",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d79f8288254e5faac360ab9d73f582c204c8a1c7"
+      }
+    }
+  ],
+  "version" : 2
+}
